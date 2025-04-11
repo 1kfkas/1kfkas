@@ -25,7 +25,7 @@
 
 ##
 
-<h3>SKILLS:</h3>
+<h3>KNOWLEDGE IN:</h3>
 
 <p>
   <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/python.png">
@@ -36,6 +36,10 @@
   <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/c%23.png">
   <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/c%2B%2B.png">
   <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/c.png">
+  <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/mysql.png">
+  <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/sqlite.png">
+  <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/django.png">
+  <img width="50" src="https://raw.githubusercontent.com/1kfkas/1kfkas/refs/heads/main/git.png">
 </p>
 
 </div>
